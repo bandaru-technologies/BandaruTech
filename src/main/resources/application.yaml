@@ -31,3 +31,7 @@ anyneeds:
     length: 6
   upload-dir: ${UPLOAD_DIR:./uploads}
   base-url: ${BASE_URL:http://localhost:8080}
+
+salepe:
+  demo:
+    seed: ${SALEPE_DEMO_SEED:false}
